@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <h1 align="center">Yo soy Franco Cancino</h1>
 <h3 align="center">Soy de Santiago de Chile, apasaionado por el desarrollo y el avance de la tecnología</h3>
 
-- 📫 How to reach me **f.cancinodiaz@gmail.com**
+- 📫  Me puedes contactar **f.cancinodiaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
