@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 📫  Me puedes contactar **f.cancinodiaz@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://fb.com/francoalejandro.cancinodiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francoalejandro.cancinodiaz" height="30" width="40" /></a>
 </p>
