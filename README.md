@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francocand&show_icons=true&locale=en" alt="francocand" /></p>
 -->
 
-<h3 align="center">Yo soy Franco Cancino</h1>
-<p align="center">Soy de Santiago de Chile, apasaionado por el desarrollo y el avance de la tecnología</h3>
+<h3 align="center">Yo soy Franco Cancino</h3>
+<p align="center">Soy de Santiago de Chile, Desarrolador Fullstack Java en formación
+  Apasaionado por el desarrollo y el avance de la tecnología</p>
 
 📫  Me puedes contactar **f.cancinodiaz@gmail.com**
 
