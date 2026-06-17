@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Franco Cancino</h1>
+<h1 align="center">I'm Franco Cancino</h1>
 <h3 align="center">Soy de Santiago de Chile, apasaionado por el desarrollo y el avance de la tecnología</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FrancoCanD" alt="FrancoCanD" /></a> </p>
