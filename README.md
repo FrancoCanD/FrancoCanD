@@ -1,4 +1,7 @@
-## Hi there 👋
+Franco Cancino Díaz
+Desarrollador Fullstack Java Trainee 
+
+Soy de Santiago de Chile, apasaionado por el desarrollo y el avance de la tecnología 
 
 <!--
 **FrancoCanD/FrancoCanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
