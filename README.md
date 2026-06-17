@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Yo soy Franco Cancino</h3>
-<p align="center">Soy de Santiago de Chile, Desarrolador Fullstack Java en formación
-  Apasaionado por el desarrollo y el avance de la tecnología</p>
+<p align="center">Soy de Santiago de Chile, Desarrolador Fullstack Java en formación</p>
 
 📫  Me puedes contactar **f.cancinodiaz@gmail.com**
 
