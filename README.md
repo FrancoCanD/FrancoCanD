@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francocand&show_icons=true&locale=en" alt="francocand" /></p>
 -->
 
-<h2 align="center">Yo soy Franco Cancino</h1>
-<h3 align="center">Soy de Santiago de Chile, apasaionado por el desarrollo y el avance de la tecnología</h3>
+<h3 align="center">Yo soy Franco Cancino</h1>
+<p align="center">Soy de Santiago de Chile, apasaionado por el desarrollo y el avance de la tecnología</h3>
 
-- 📫  Me puedes contactar **f.cancinodiaz@gmail.com**
+📫  Me puedes contactar **f.cancinodiaz@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
